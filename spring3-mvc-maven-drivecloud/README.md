@@ -1,6 +1,6 @@
-Maven - Spring 3 MVC Hello World
+Distributed Systems Project
 ===============================
-Template for Spring 3 MVC + JSP view + XML configuration, using Maven build tool.
+For study only.
 
 ###1. Technologies used
 * Maven 3
@@ -11,15 +11,8 @@ Template for Spring 3 MVC + JSP view + XML configuration, using Maven build tool
 
 ###2. To Run this project locally
 ```shell
-$ git clone https://github.com/mkyong/spring3-mvc-maven-xml-hello-world
+$ git clone https://github.com/nbxtruong/DistributedSystems.git
+$ mvn clean install
 $ mvn jetty:run
 ```
-Access ```http://localhost:8080/spring3```
-
-###3. To import this project into Eclipse IDE
-1. ```$ mvn eclipse:eclipse```
-2. Import into Eclipse via **existing projects into workspace** option.
-3. Done.
-
-###4. Project Demo
-Please refer to this article [Maven - Spring 3 MVC Hello World ](http://www.mkyong.com/spring3/spring-3-mvc-hello-world-example/)
+Access ```http://localhost:8080/login```
