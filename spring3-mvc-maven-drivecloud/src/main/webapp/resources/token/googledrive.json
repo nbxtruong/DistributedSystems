@@ -1,0 +1,14 @@
+{
+  "client_id": "1002703817714-fd0c2oaavunu9149nr3pod7mv8ef5qvd.apps.googleusercontent.com",
+  "project_id": "gdrivetest-155305",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_secret": "JyTz5-26MQwuMKv3ERijeHpk",
+  "redirect_uris": [
+    "urn:ietf:wg:oauth:2.0:oob",
+    "http://localhost"
+  ],
+  "token": "ya29.Glv0A27bqoMgRjARAf1hlVWDUEcW97Iwv87QYWvwP9Rz_ngmThEgPTLW5VI3qJIEnulvZTV1tjkpxYRneWGpKPcI-OTpk_2ni8YYriufS_zvNparS4eWsKgTDJ4c",
+  "refeshToken": "1/TXuv4KvPsj2ItH4jnXkhQyKBG2b6gPR7FbIktGdQp4A"
+}
